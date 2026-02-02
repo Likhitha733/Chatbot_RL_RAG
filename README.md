@@ -54,7 +54,7 @@ Create a file named `.env` in the root directory (same folder as `main.py`). Add
 
 ```ini
 GOOGLE_API_KEY=your_actual_api_key_here
-MODEL_NAME=gemini-2.5-pro
+MODEL_NAME=gemini-2.0-pro
 CHUNK_SIZE=2500
 CHUNK_OVERLAP=500
 
