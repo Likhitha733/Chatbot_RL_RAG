@@ -1,7 +1,3 @@
-Here is a professional **README.md** file for your project. You can copy and paste this directly into your repository.
-
----
-
 # 🤖 Agentic AI RAG Chatbot with Reinforcement Learning
 
 **Developed by Likhitha Bollu**
